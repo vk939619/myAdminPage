@@ -10398,3 +10398,17 @@ body {
 .sb-sidenav-light .sb-sidenav-footer {
     background-color: #e9ecef;
 }
+
+.navbar-brand {
+    font-size: 23px;
+    font-family: 'Tangerine', cursive;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: 'Monoton', cursive;
+}
+
+th {
+    font-family: 'Orbitron', sans-serif;
+}
